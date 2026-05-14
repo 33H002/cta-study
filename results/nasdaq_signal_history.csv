@@ -1,0 +1,4 @@
+run_date,market_date,timing,profile,score,target_position,action,trade_close,output_path
+2026-05-14,2026-05-13,pre-open,aggressive,1.0,1.0,CHECK,92.550003,outputs/nasdaq_signal_2026-05-13_pre-open.md
+2026-05-14,2026-05-13,pre-open,aggressive,1.0,1.0,CHECK,92.550003,outputs/nasdaq_signal_2026-05-13_pre-open.md
+2026-05-14,2026-05-13,pre-open,aggressive,1.0,0.799633,HOLD,77.239998,outputs/nasdaq_signal_2026-05-13_pre-open.md

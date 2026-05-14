@@ -1,4 +1,4 @@
-# CTA-lite Study
+# CTA-lite for QQQ / QLD
 
 This project tests a single-market version of CTA trend following. Traditional
 CTA programs diversify across many futures markets. Here the universe is limited
