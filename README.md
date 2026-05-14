@@ -1,4 +1,4 @@
-# CTA-lite for QQQ / QLD
+# CTA-lite Study
 
 This project tests a single-market version of CTA trend following. Traditional
 CTA programs diversify across many futures markets. Here the universe is limited
@@ -234,4 +234,3 @@ The key questions are:
 - Is turnover low enough after costs?
 - In DCA mode, does automatic trading reduce drawdown enough to justify missed
   upside versus simple weekly accumulation?
-# cta-study
